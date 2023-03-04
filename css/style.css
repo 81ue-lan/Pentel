@@ -644,12 +644,13 @@ li.news-nav-current a{
 }
 .fans-voice-list{
     display: flex;
-    width: 100%;
-    padding: 50px 0;
+    width: 130.769231%;
+    padding: 30px 0;
+    margin-left:-11.5384615%;
 }
 .fans-voice-item{
-    width:23.07%;
-    margin: 0 1.92305%;
+    width:23.0769231%;
+    margin-right:3.84615385%;
     border-radius: 20px;
     overflow: hidden;
 }
