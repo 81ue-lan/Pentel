@@ -320,6 +320,11 @@ main{
     align-items: center;
     margin-bottom: 35px;
 }
+.pagination{
+    font-size: 12px;
+    font-weight: 600;
+    color: #f00;
+}
 .previous,.next{
     display: inline-block;
     width: 12px;
